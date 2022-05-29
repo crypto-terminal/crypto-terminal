@@ -1,6 +1,6 @@
 {
-  "name": "terminal-app",
-  "outputfilename": "terminal-app",
+  "name": "CryptoTerminal",
+  "outputfilename": "CryptoTerminal",
   "frontend:install": "npm install",
   "frontend:build": "npm run build",
   "frontend:dev:watcher": "npm run dev",
