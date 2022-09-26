@@ -1,8 +1,8 @@
 package main
 
 import (
-	"embed"
 	"cryptoterminal/backend"
+	"embed"
 	"github.com/wailsapp/wails/v2"
 	"github.com/wailsapp/wails/v2/pkg/options"
 )
