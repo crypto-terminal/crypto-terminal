@@ -5,3 +5,6 @@ dev:
 
 build:
 	wails build
+
+update:
+	wails update
